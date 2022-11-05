@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksLibrary.Api", "BooksLi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{D6C08BA5-55C3-42F8-B65F-1E9867FE20EF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksLibrary.Core.Domain", "BooksLibrary.Domain\BooksLibrary.Core.Domain.csproj", "{E9AE3C4F-9889-4DCE-A89E-71549A75F69B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksLibrary.Core.Domain", "BooksLibrary.Core.Domain\BooksLibrary.Core.Domain.csproj", "{E9AE3C4F-9889-4DCE-A89E-71549A75F69B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksLibrary.Core.App", "BooksLibrary.Core.App\BooksLibrary.Core.App.csproj", "{DE6C3D0A-A5D9-487E-AE1A-956D013E9586}"
 EndProject

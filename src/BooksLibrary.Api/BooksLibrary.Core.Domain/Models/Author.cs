@@ -1,6 +1,6 @@
 ﻿using BooksLibrary.Core.Domain.Abstractions;
 
-namespace BooksLibrary.Domain.Models;
+namespace BooksLibrary.Core.Domain.Models;
 
 public class Author : Entity
 {

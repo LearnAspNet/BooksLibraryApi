@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BooksLibrary.Core.App\BooksLibrary.Core.App.csproj" />
-    <ProjectReference Include="..\BooksLibrary.Domain\BooksLibrary.Core.Domain.csproj" />
+    <ProjectReference Include="..\BooksLibrary.Core.Domain\BooksLibrary.Core.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,4 +1,4 @@
-﻿using BooksLibrary.Domain.Models;
+﻿using BooksLibrary.Core.Domain.Models;
 
 namespace BooksLibrary.DAL;
 
