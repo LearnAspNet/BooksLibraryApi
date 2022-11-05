@@ -1,6 +1,6 @@
 ﻿{
   "profiles": {
-    "LessonTwo.Api": {
+    "BooksLibrary.Api": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": false,
