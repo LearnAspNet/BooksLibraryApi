@@ -6,6 +6,7 @@ namespace BooksLibrary.Api.Controllers
     [ApiController]
     public class BookController : ControllerBase
     {
+        [HttpGet]
         public async Task<IActionResult> GetBooks()
         {
             return await Task.FromResult(Ok());
