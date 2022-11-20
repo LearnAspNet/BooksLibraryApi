@@ -12,6 +12,12 @@ public static class ExtensionsSetupMiddlewarePipeline
             app.UseHsts();
         }
 
+        if (app.Environment.IsDevelopment())
+        {
+            app.UseSwagger();
+            app.UseSwaggerUI();
+        }
+
         app.UseCounter();
 
         app.UseHttpsRedirection();
